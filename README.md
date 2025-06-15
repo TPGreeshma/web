@@ -1,5 +1,5 @@
 <html>
-  <head>Welcome folks</head>
+  <h1>Welcome folks!</h1>
   <br>
-  <h1>Nothing much to see right now, just wait...</h1>
+  <head>Nothing much to see right now, just wait...</head>
 </html>
